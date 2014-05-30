@@ -25,5 +25,6 @@ $(window).ready(function(){
         CW.reg_cmp.push({key:/\(69\)/g, rep: "<img src='http://yoursmiles.org/tsmile/sex/t15126.gif' alt='(69)' title='(69)' class='ui_emoticon'/>", reptxt:'(69)'});
         CW.reg_cmp.push({key:/\(fuck\)/g, rep: "<img src='http://yoursmiles.org/tsmile/sex/t15164.gif' alt='(fuck)' title='(fuck)' class='ui_emoticon'/>", reptxt:'(fuck)'});
         CW.reg_cmp.push({key:/\(cuoideu\)/g, rep: "<img src='http://aoevietnam.org/images/icon2009/cuoideu.gif' alt='(cuoideu)' title='(cuoideu)' class='ui_emoticon'/>", reptxt:'(cuoideu)'});
-        CW.reg_cmp.push({key:/\(cuoideu2\)/g, rep: "<img src='http://aoevietnam.org/images/icon2009/cuoideu.gif' alt='(cuoideu)' title='(cuoideu)' class='ui_emoticon'/>", reptxt:'(cuoideu2)'});
+        CW.reg_cmp.push({key:/\(cuoideu2\)/g, rep: "<img src='http://aoevietnam.org/images/icon2009/cuoideu.gif' alt='(cuoideu)' title='(cuoideu)' class='ui_emoticon'/>", reptxt:'(cuoideu2)'});\
+        CW.reg_cmp.push({key:/\(cuoideu3\)/g, rep: "<img src='http://aoevietnam.org/images/icon2009/cuoideu.gif' alt='(cuoideu)' title='(cuoideu)' class='ui_emoticon'/>", reptxt:'(cuoideu2)'});
 });
